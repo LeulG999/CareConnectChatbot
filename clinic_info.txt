@@ -1,0 +1,38 @@
+JERUSALEM CLINIC (fictional clinic for demo purposes)
+
+LOCATION & CONTACT
+Address: 120 Riverside Ave, Springfield
+Phone: (555) 010-2000
+Nurse line: (555) 010-2020
+Email: frontdesk@jerusalemclinic.example
+
+HOURS
+Monday-Friday: 8:00 AM - 6:00 PM
+Saturday: 9:00 AM - 1:00 PM
+Sunday: Closed
+
+SERVICES
+- Annual checkups and physicals
+- Vaccinations (flu, COVID-19, tetanus)
+- Lab work and blood tests
+- Telehealth video visits
+- Sports and school physicals
+
+INSURANCE ACCEPTED
+- BlueCross BlueShield
+- Aetna
+- UnitedHealthcare
+- Medicare
+Self-pay patients are welcome.
+
+APPOINTMENTS
+- Book: call the clinic or use the online patient portal
+- Reschedule or cancel: at least 24 hours before the appointment
+- Late arrival: more than 15 minutes late may need to reschedule
+
+VISIT PREPARATION
+- Bring a photo ID and insurance card
+- Arrive 15 minutes early for first visits
+- Fasting blood tests: no food for 8-12 hours before (water is okay)
+
+
